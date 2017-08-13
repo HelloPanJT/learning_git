@@ -1,12 +1,14 @@
 This is a hello file in git.
-
+Line added by user1
+Line added by user1
+Line added by user1
 
 
 user2 add something here.
 user2 modify here.
 
 This line is added by user2.
-This line is added by user1.
+
 
 Additional line is added.
 
