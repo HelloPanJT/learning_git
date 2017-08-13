@@ -1,6 +1,6 @@
 This is a hello file in git.
 
-now this line is changed.
+user1 modify here.
 
 user2 add something here.
 now this line is changed.
