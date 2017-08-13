@@ -2,5 +2,5 @@ This is a hello file in git.
 
 First line is used to test push.
 
-user2 wins the competition and do some incorrect merge, original work was modified.
+I am user1, although user2 wins, but I forced to change.
 
