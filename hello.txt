@@ -1,6 +1,6 @@
 This is a hello file in git.
 
 First line is used to test push.
-user2 wants to modify this line.
 
-This line is modified by user 1 in order to check whether git can merge automatically.
+user2 wins the competition and do some incorrect merge, original work was modified.
+
