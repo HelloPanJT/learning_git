@@ -3,5 +3,5 @@ This is a hello file in git.
 now this line is changed.
 
 user2 add something here.
-I am user1, although user2 wins, but I forced to change.
+now this line is changed.
 
