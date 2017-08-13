@@ -1,3 +1,4 @@
 This is a hello file in git.
 
 First line is used to test push.
+This line is added by user1 in order to check whether git can merge automatically if insertion happened in different line. 
