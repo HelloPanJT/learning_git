@@ -3,5 +3,5 @@ This is a hello file in git.
 now this line is changed.
 
 user2 add something here.
-now this line is changed.
+user2 modify here.
 
