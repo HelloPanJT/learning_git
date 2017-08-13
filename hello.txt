@@ -7,3 +7,5 @@ user2 modify here.
 
 This line is added by user2.
 This line is added by user1.
+
+Additional line is added.
