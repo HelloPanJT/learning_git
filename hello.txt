@@ -1,6 +1,6 @@
 This is a hello file in git.
 
-First line is used to test push.
+now this line is changed.
 
 user2 add something here.
 I am user1, although user2 wins, but I forced to change.
