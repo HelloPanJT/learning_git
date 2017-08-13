@@ -1,5 +1,7 @@
 This is a hello file in git.
-
+Line added by user1
+Line added by user1
+Line added by user1
 
 
 user2 add something here.
